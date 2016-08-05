@@ -1,0 +1,38 @@
+_repo: Quotes-and-Images-From-Motley-s-History-of-the-Netherlands_7552
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7552/7552-h/images/bookcover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Motley, John Lothrop
+    aliases:
+    - Motley, J. L. (John Lothrop)
+    - Motley, J. Lothrop (John Lothrop)
+    birthdate: 1814
+    deathdate: 1877
+    gutenberg_agent_id: '1583'
+    url: http://www.gutenberg.org/2009/agents/1583
+    wikipedia: http://en.wikipedia.org/wiki/John_Lothrop_Motley
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2004-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcc 'DH'
+- GITenberg
+title: Quotes and Images From Motley's History of the Netherlands
+url: http://www.gutenberg.org/ebooks/7552
